@@ -1,0 +1,123 @@
+ body{
+	background-image: url(school2.jpg);
+	background-attachment: fixed;
+}
+*
+{
+	padding: 0;
+	margin: 0;
+}
+li{
+
+}
+a{
+	color:black;
+}
+a:hover{
+	color:white;
+}
+#summarys{
+	background-color:black;
+}
+section{
+	width:500px;
+	float:right;
+}
+#container{
+	margin-top:250px;
+}
+#container ul{
+	width:50px;
+	/*display:*/
+	text-align: center;
+	list-style-type:none;
+	margin-right:none;
+	margin-left: 50px;
+}
+#container2{
+	width:1000px;
+	float: right;
+	clear:top;
+	margin-top:-350px;
+	margin-right:50px;
+	border:10px solid black;
+	border-top-width:50px;
+}
+
+#container2 ul
+{
+	list-style-type: none;
+}
+
+#container2 ul li
+{
+	height: 70px;
+}
+
+
+.summarytitles{
+	background-color:#b7b7b7;
+	text-align:center;
+	border:1px solid black;
+	font-size:50px;
+	text-transform: capitalize;
+	text-decoration: none;
+	text
+}
+.titletext{
+	vertical-align:middle;
+	white-space: nowrap;
+	  -o-text-overflow: ellipsis;
+    text-overflow:    ellipsis; 
+    overflow:hidden;   
+    white-space:nowrap;
+    width: 1000px;
+}
+span {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;      
+}
+#explore:hover{
+}
+.time{
+	font-size:20px;
+	text-align: left;
+	display:inline; 
+	float:left;
+}
+#title{
+	width:500px;
+	height:30px;
+}
+#mastertitle{
+	clear: both;
+	margin:auto;
+	text-align:center;
+}
+#mastertext{
+	width:1000px;
+	height:400px;
+	margin-top:25px;
+}
+#masterrest{
+	margin-top:10px;
+}
+.formtext{
+	font-size:30px;
+	color: white;
+}
+.formtext2{
+	font-size:20px;
+	color:white;
+}
+form{
+	background-color:black;
+}
+#thanks{
+	color:white;
+	
+}
+#scientist{
+	width:425px;
+}

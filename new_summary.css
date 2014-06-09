@@ -1,0 +1,35 @@
+body{
+		background-image: url(free-high-definition-desktop-wallpaper.jpg);
+}
+#container{
+	margin-top:250px;
+}
+#container ul{
+	width:50px;
+	/*display:*/
+	text-align: center;
+	list-style-type:none;
+	margin-right:none;
+	margin-left: 50px;
+}
+form{
+	float: right;
+	margin-top:-350px;
+	margin-right:50px;
+	border:solid 1px black;
+}
+#title{
+	width:500px;
+	height:30px;
+}
+.formtext{
+	font-size:30px;
+}
+.formtext2{
+	font-size:20px;
+}
+label{
+}
+nav{
+
+}
